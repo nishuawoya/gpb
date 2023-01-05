@@ -37,10 +37,10 @@ GBP RPC调用文档
 - [eth_blockNumber](#eth_blockNumber)
 
 
-#eth_protocolVersion
+# eth_protocolVersion
 返回当前以太坊协议的版本。
 
-###参数
+### 参数
 无
 
 ###返回值
